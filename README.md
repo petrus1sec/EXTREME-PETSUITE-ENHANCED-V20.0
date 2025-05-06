@@ -1,12 +1,13 @@
 ```markdown
-# 🔥 PETSUITE PROMAX V15.0 - "The Ultimate Web Poking Stick" 🔥
+## 🔥 PETSUITE PROMAX V15.0 - "The Ultimate Web Poking Stick" 🔥
+```
 
 ```diff
 -+/ WARNING: Ini bukan mainan anak kecil! +/-
 -+/ Jangan dipake buat jailbreak tetangga! +/-
 ```
 
-## 🧰 "What's in the Box?"
+## 🧰 What's in the Box?
 
 Tools ini adalah **"Swiss Army Knife"-nya hacker cupu** yang pengen jadi jagoan:
 
@@ -19,7 +20,7 @@ Tools ini adalah **"Swiss Army Knife"-nya hacker cupu** yang pengen jadi jagoan:
 ✔️ Bisa pake di Termux "biar keren di angkot"
 ```
 
-## 💻 "Installation - Gampang Banget"
+## 💻 Installation - Gampang Banget
 
 ### Untuk "Anak Terminal" (Termux/Linux):
 
@@ -47,7 +48,7 @@ cd PETSUITE-PROMAX
 pip install -r requirements.txt
 ```
 
-## 🚀 "Cara Pake - Buat yang Ga Sabaran"
+## 🚀 Cara Pake - Buat yang Ga Sabaran
 
 ```bash
 # Jalanin toolsnya "kaya ngegas motor"
@@ -59,7 +60,7 @@ python kli.py
 3. "Minggat" (Kalo takut)
 ```
 
-## 🧙 "Daftar Mantra (Payload)"
+## 🧙 Daftar Mantra (Payload)
 
 ```python
 "Jurus-jurus andalan":
@@ -69,7 +70,7 @@ python kli.py
 - RCE: "; rm -rf /*"  # "Jurus bahaya" (Jangan coba!)
 ```
 
-## 📜 "Sumpah Hacker"
+## 📜 Sumpah Hacker
 
 ```diff
 ! Saya bersumpah akan menggunakan tools ini hanya untuk:
@@ -81,7 +82,7 @@ python kli.py
 - [×] Iseng-iseng berhadiah pidana
 ```
 
-## 🌟 "Credits"
+## 🌟 Credits
 
 ```bash
 "Ditulis dengan":
@@ -95,7 +96,7 @@ python kli.py
 - Indomie "sumber energi"
 ```
 
-## 📍 "Disclaimer"
+## 📍 Disclaimer
 
 ```diff
 # Tools ini "seperti pisau":
