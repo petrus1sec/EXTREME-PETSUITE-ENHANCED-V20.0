@@ -1,22 +1,35 @@
-# 🧪 "Bahan-bahan Rahasia" PETSUITE PROMAX V15.0
+# 🧪 BAHAN-BAHAN RAHASIA PETSUITE PROMAX V15.0
 # 🔥 Jangan asal comot, ntar error sendiri! 🔥
 
-colorama==0.4.6             # "Biar warna-warni kayak pelangi"
-beautifulsoup4==4.12.2      # "Penciduk kontak kaya ninja"
-requests==2.31.0            # "HTTP requests ala tukang parkir"
-phonenumbers==8.13.22       # "Detektif nomor HP"
-email-validator==2.0.0      # "Polisi email palsu"
-dnspython==2.4.2            # "Mata-malaikat DNS"
-concurrent-log-handler==0.9.24  # "Multitasking kaya loper koran"
+# CORE DEPENDENCIES
+colorama==0.4.6             # Warna-warni biar ga monoton
+beautifulsoup4==4.12.2      # Pencari kontak kayak detektif
+requests==2.31.0            # HTTP requests ala ninja
+phonenumbers==8.13.22       # Validator nomor HP internasional
+email-validator==2.0.0      # Polisi email palsu
+dnspython==2.4.2            # Mata-mata DNS
+urllib3==1.26.16            # Tukang antar paket HTTP
+concurrent-log-handler==0.9.24  # Multitasking kayak loper koran
 
-# 🚨 Dependencies khusus Termux (biar ga error)
-pyopenssl==23.2.0           # "Bodyguard SSL"
-cryptography==41.0.5        # "Tukang kunci digital"
-urllib3==1.26.16            # "Tukang antar paket HTTP"
+# SECURITY BOOSTER
+pyopenssl==23.2.0           # Bodyguard SSL/TLS
+cryptography==41.0.5        # Enkripsi ala agen rahasia
+bs4==0.0.1                  # BeautifulSoup shortcut
 
-# 📌 Catatan Penting:
-# Kalo error pas install:
-# 1. Jangan nangis
-# 2. Coba lagi pake:
-#    pip install --upgrade pip wheel
-# 3. Masih error? Baca dokumentasi (atau pasrah)
+# TERMUX SPECIALS (biar lancar di HP)
+libffi-dev                  # Bahan bangunan crypto
+openssl-dev                 # Kebutuhan SSL ekstra
+clang                       # Compiler darurat
+
+# PERFORMANCE ENHANCERS
+psutil==5.9.5               # Monitor resource
+lxml==4.9.3                 # Parser turbo
+uvloop==0.17.0              # Boost kecepatan (Linux only)
+
+# BONUS TOOLS
+tqdm==4.65.0                # Progress bar keren
+python-magic==0.4.27        # Deteksi file type
+fake-useragent==1.1.3       # Disguise user-agent
+
+# 🚨 EMERGENCY BACKUP
+backports.ssl-match-hostname==3.7.0.1  # Jaga-jaga SSL error
