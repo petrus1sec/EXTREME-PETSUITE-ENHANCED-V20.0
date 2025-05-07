@@ -43,9 +43,10 @@ pip install -r requirements.txt  # "Sambil nunggu direbus"
 # Buka CMD "Run as Administrator" (jangan lupa salim)
 # Ini buat yang "alergi terminal"
 python -m pip install --upgrade pip
-git clone https://github.com/username/PETSUITE-PROMAX.git
-cd PETSUITE-PROMAX
+git clone https://github.com/petrus1sec/EXTREME-PETSUITE-FIXBUG-V15.0.git
+cd EXTREME-PETSUITE-FIXBUG-V15.0
 pip install -r requirements.txt
+python fixbug.py
 ```
 
 ## 🚀 Cara Pake - Buat yang Ga Sabaran
