@@ -1,5 +1,5 @@
 ```markdown
-## 🔥 PETSUITE PROMAX V15.0 - "The Ultimate Web Poking Stick" 🔥
+## 🔥 PETSUITE ENHANCED V20.0 - "The Ultimate Web Poking Stick" 🔥
 ```
 
 ```diff
@@ -13,7 +13,7 @@ Tools ini adalah **"Swiss Army Knife"-nya hacker cupu** yang pengen jadi jagoan:
 
 ```bash
 "Fitur-fitur sakti":
-✔️ 500+ payload "jurus maut" SQLi, XSS, dll
+✔️ 700+ payload "jurus maut" SQLi, XSS, dll
 ✔️ Auto-grab kontak "kayak ninja"
 ✔️ Scanner "buta huruf"-friendly
 ✔️ Laporan "kek buku harian"
@@ -30,7 +30,7 @@ pkg install python git -y  # "Wajib kaya makan"
 python -m pip install --upgrade pip  # "Biar ga basi"
 
 # Clone repo-nya "kayak ngegrab barang"
-git clone https://github.com/username/PETSUITE-PROMAX.git
+git clone https://github.com/petrus1sec/EXTREME-PETSUITE-ENHANCED-V20.0.git
 cd PETSUITE-PROMAX
 
 # Install bahan-bahannya "kaya masak indomie"
